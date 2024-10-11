@@ -1,3 +1,7 @@
+
+// Prepared by: Kirubel Temesgen
+// Purpose: To generate graph objects
+
 import java.util.ArrayList;
 import java.util.List;
 
